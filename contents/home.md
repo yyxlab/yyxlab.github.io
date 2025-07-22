@@ -1,20 +1,7 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+欢迎来到杨亚雄实验室！在这里，我们探索大脑的“电火花”和细胞的“感应器”。你知道大脑是如何思考、记忆甚至感受情绪的吗？这一切都离不开一些神奇的小家伙——钙离子。它就像一个指挥官，通过钙通道进入神经细胞，指挥着神经信号的传递和神经网络的构建。我们还研究细胞如何感知外界的“触摸”、“挤压”等刺激，并将这些刺激转化为细胞内的钙信号，从而影响细胞的状态和命运。加入我们，一起探索这些的奥秘！
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+Welcome to the YANG Yaxiong Laboratory! Here, we explore the “electric sparks” of the brain and the “sensors” of cells. Have you ever wondered how the brain thinks, remembers, or even feels emotions? It all comes down to some amazing little players—calcium ions. They act like commanders, entering nerve cells through calcium channels and directing the transmission of nerve signals and the construction of neural networks. We also study how cells sense external stimuli like “touches” and “squeezes,” and convert these stimuli into calcium signals inside the cell, thereby affecting the cell’s state and fate. Join us to explore these mysteries together!
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
