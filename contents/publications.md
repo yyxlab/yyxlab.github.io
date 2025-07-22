@@ -1,6 +1,12 @@
+代表性论文（仅列出第一或通讯作者论文，*通讯作者；#第一作者）
+
+2025-至今（中山大学课题组期间）
+
 Yi Liu, Xuyang Sun*, Nan Liu*, Yaxiong Yang*, Emerging Techniques for Precision Neuromodulation: A Comparative Framework from Bench to Bedside. The Innovation Life 2025 (Accepted)
 
 Yichen Ke#, Ruijie Gong#, Nan Liu*, Yaxiong Yang*, A brief guideline for the studies of structure-function relationship of ion channels using AlphaFold3. Fundamental Research 2025 (Accepted)
+
+2020-2025（北京航空航天大学课题组期间）
 
 Yi Liu, Jiahui Chen, Jiani Yang, Jin Chen, Qiang Hao, Jianying Guo, Yaxiong Yang*, Jing Liu*, Xuyang Sun*, Gallium-based nano-liquid metals enabled antimicrobial mechanisms and biomedical applications. Nanoscale 2025
 
@@ -16,6 +22,10 @@ Yaxiong Yang#, Miao Wei#, Lei Chen*, Structural identification of riluzole bindi
 
 Yaxiong Yang#, Zhen Yu#, Jinli Geng#, Min Liu, Nan Liu, Ping Li, Weili Hong, Shuhua Yue, He Jiang, Haiyan Ge, Feng Qian, Wei Xiong, Ping Wang, Sen Song, Xiaomei Li*, Yubo Fan* & Xiaodong Liu*. Cytosolic peptides encoding CaV1 C-termini downregulate the calcium channel activity-neuritogenesis coupling. Communications Biology 2022
 
+2020以前（独立以前）
+
 Yaxiong Yang#, Nan Liu#, Yuanyuan He#, Yuxia Liu, Lin Ge, Linzhi Zou, Sen Song, Wei Xiong, Xiaodong Liu*. Improved calcium sensor GCaMP-X overcomes calcium channel perturbations induced by the calmodulin in GCaMP. Nature Communications 2018
 
 Nan Liu#, Yaxiong Yang#, Lin Ge#, Min Liu, Henry M. Colecraft, Xiaodong Liu*. Cooperative and acute inhibition by multiple C-terminal motifs of L-type Ca2+ channels. eLife 2017
+
+
