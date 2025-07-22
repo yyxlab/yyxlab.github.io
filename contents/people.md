@@ -1,21 +1,6 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+### **PI简介**  
+杨亚雄，2012年本科毕业于厦门大学，后进入清华大学医学院直博攻读生物医学工程博士学位，2018年毕业后获得博士后创新人才支持计划资助，进入北京航空航天大学生物与医学工程学院做博士后研究，2020年留北京航空航天大学生物与医学工程学院任副教授，博导，入选北航“医工百人”计划、“青年拔尖人才”计划。2025年进入中山大学医学院任副教授，博士生导师，入选逸仙学者计划“优秀学者”岗位。
+杨亚雄博士长期致力于分子神经科学、生物物理、和力生物学领域研究，相关研究内容以第一或通讯作者身份在《Nature Communications》、《eLife》、《Advanced Science》、《Structure》、《Cell Discovery》等杂志发表十余篇，学术成果受到了Faculty Opinions（原F1000Prime）等国际知名学术团体推荐。以独立PI身份主持国自然面上、国自然青年、科技委、北自然、博新计划、博士后基金、中央高校基本科研经费等多项基金支持课题研究，并参与多项国家及省市级项目。
+#### Email  
+<code>yang.yaxiong@foxmail.com</code>  
+<code>yangyaxiong@mail.sysu.edu.cn</code>
