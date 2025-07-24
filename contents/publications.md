@@ -1,4 +1,4 @@
-### 代表性论文（*通讯作者；#第一作者）
+### 代表性论文（*通讯作者；#第一作者）/ Selected Publications (*Corresponding Author; #First Author)
 
 ### 2025-至今（中山大学课题组期间）/ Since 2025 (Lab at Sun Yat-sen University)
 
