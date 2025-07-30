@@ -4,7 +4,7 @@
 
 Yi Liu, Xuyang Sun*, Nan Liu*, Yaxiong Yang*, Emerging Techniques for Precision Neuromodulation: A Comparative Framework from Bench to Bedside. The Innovation Life 2025 (Accepted)
 
-Yichen Ke#, Ruijie Gong#, Nan Liu*, Yaxiong Yang*, A brief guideline for the studies of structure-function relationship of ion channels using AlphaFold3. Fundamental Research 2025 (Accepted)
+Yichen Ke#, Ruijie Gong#, Nan Liu*, Yaxiong Yang*, A brief guideline for the studies of structure-function relationship of ion channels using AlphaFold3. Fundamental Research 2025
 
 ### 2020-2025（北京航空航天大学课题组期间）/ 2020–2025 (Lab at Beihang University)
 
