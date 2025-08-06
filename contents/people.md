@@ -10,33 +10,26 @@ Dr. Yang’s research focuses on molecular neuroscience, biophysics, and mechano
 <code>yangyaxiong@mail.sysu.edu.cn</code>
 
 ### **实验室成员 / Lab Members**  
-王雨 博士研究生 
-研究方向：离子通道生理和病理
-WANG Yu, Ph.D. student
-Research interest: physiology and pathology of ion channels
+王雨 博士研究生 研究方向：离子通道生理和病理 / WANG Yu, Ph.D. student, research interest: physiology and pathology of ion channels
 
-龚蕊婕 硕士研究生
-研究方向：离子通道调控与工程
-GONG Ruijie, Master's student
-Research interest: ion channel modulation and engineering
+龚蕊婕 硕士研究生 研究方向：离子通道调控与工程 / GONG Ruijie, Master's student, research interest: ion channel modulation and engineering
 
-刘艺 联合培养博士研究生
-研究方向：神经调控
-LIU Yi, joint Ph.D. student
-Research interest: neuromodulation
+刘艺 联合培养博士研究生 研究方向：神经调控 / LIU Yi, joint Ph.D. student, research interest: neuromodulation
 
-邹致远 课题合作研究生
-研究方向：人工智能应用于离子通道
-ZOU Zhiyuan, visiting Master's student
-Research interest: AI for ion channels
+邹致远 课题合作研究生 研究方向：人工智能应用于离子通道 / ZOU Zhiyuan, visiting Master's student, research interest: AI for ion channels
 
 
 ### **实验室过往成员 / Lab Alumni**  
 孙远昆 联合培养博士研究生 2021-2025 / SUN Yuankun Ph.D. student 2021-2024
+
 樊宇 硕士研究生 2022-2025 / FAN Yu Master's student 2022-2025
+
 蔡婧 硕士研究生 2022-2024 / CAI Jing Master's student 2022-2024
+
 柯依辰 本科生 2024-2025 / KE Yichen Undergraduate student 2024-2025
+
 吕默凡 硕士研究生 2024-2025 / LV Mofan Master's student 2024-2025
+
 刘祐豪 本科生 2025 / LIU Youhao  Undergraduate student 2025
 
 
