@@ -1,4 +1,4 @@
-### **实验室负责人简介/ Principal Investigator**  
+### **实验室负责人简介 / Principal Investigator**  
 杨亚雄，2012年本科毕业于厦门大学，后进入清华大学医学院直博攻读生物医学工程博士学位，2018年毕业后获得博士后创新人才支持计划资助，进入北京航空航天大学生物与医学工程学院做博士后研究，2020年留北京航空航天大学生物与医学工程学院任副教授，博导，入选北航“医工百人”计划、“青年拔尖人才”计划。2025年进入中山大学医学院任副教授，博士生导师，入选逸仙学者计划“优秀学者”岗位。
 杨亚雄博士长期致力于分子神经科学、生物物理、和力生物学领域研究，相关研究内容以第一或通讯作者身份在《Nature Communications》、《eLife》、《Advanced Science》、《Structure》、《Cell Discovery》等杂志发表十余篇，学术成果受到了Faculty Opinions（原F1000Prime）等国际知名学术团体推荐。以独立PI身份主持国自然面上、国自然青年、科技委、北自然、博新计划、博士后基金、中央高校基本科研经费等多项基金支持课题研究，并参与多项国家及省市级项目。
 
@@ -8,3 +8,36 @@ Dr. Yang’s research focuses on molecular neuroscience, biophysics, and mechano
 #### Email  
 <code>yang.yaxiong@foxmail.com</code>  
 <code>yangyaxiong@mail.sysu.edu.cn</code>
+
+### **实验室成员 / Lab Members**  
+王雨 博士研究生 
+研究方向：离子通道生理和病理
+WANG Yu, Ph.D. student
+Research interest: physiology and pathology of ion channels
+
+龚蕊婕 硕士研究生
+研究方向：离子通道调控与工程
+GONG Ruijie, Master's student
+Research interest: ion channel modulation and engineering
+
+刘艺 联合培养博士研究生
+研究方向：神经调控
+LIU Yi, joint Ph.D. student
+Research interest: neuromodulation
+
+邹致远 课题合作研究生
+研究方向：人工智能应用于离子通道
+ZOU Zhiyuan, visiting Master's student
+Research interest: AI for ion channels
+
+
+### **实验室过往成员 / Lab Alumni**  
+孙远昆 联合培养博士研究生 2021-2025 / SUN Yuankun Ph.D. student 2021-2024
+樊宇 硕士研究生 2022-2025 / FAN Yu Master's student 2022-2025
+蔡婧 硕士研究生 2022-2024 / CAI Jing Master's student 2022-2024
+柯依辰 本科生 2024-2025 / KE Yichen Undergraduate student 2024-2025
+吕默凡 硕士研究生 2024-2025 / LV Mofan Master's student 2024-2025
+刘祐豪 本科生 2025 / LIU Youhao  Undergraduate student 2025
+
+
+
