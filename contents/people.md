@@ -20,15 +20,15 @@ Dr. Yang’s research focuses on molecular neuroscience, biophysics, and mechano
 
 
 ### **实验室过往成员 / Lab Alumni**  
-孙远昆 联合培养博士研究生 2021-2025 / SUN Yuankun Ph.D. student 2021-2024
+孙远昆 联合培养博士研究生 2021-2025 现电子科技大学博士后 / SUN Yuankun Ph.D. student 2021-2024 Now: Postdoc in UESTC
 
-樊宇 硕士研究生 2022-2025 / FAN Yu Master's student 2022-2025
+樊宇 硕士研究生 2022-2025 现强联智创公司 / FAN Yu Master's student 2022-2025 Now: Unionstrong Tech
 
 蔡婧 硕士研究生 2022-2024 / CAI Jing Master's student 2022-2024
 
 柯依辰 本科生 2024-2025 / KE Yichen Undergraduate student 2024-2025
 
-吕默凡 硕士研究生 2024-2025 / LV Mofan Master's student 2024-2025
+吕默凡 硕士研究生 2024-2025 现北航研究生 / LV Mofan Master's student 2024-2025 Now: Graduate student at Beihang University
 
 刘祐豪 本科生 2025 / LIU Youhao  Undergraduate student 2025
 
