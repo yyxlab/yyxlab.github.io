@@ -16,7 +16,7 @@ Dr. Yang’s research focuses on molecular neuroscience, biophysics, and mechano
 
 刘艺 联合培养博士研究生 研究方向：神经调控 / LIU Yi, joint Ph.D. student, research interest: neuromodulation
 
-邹致远 课题合作研究生 研究方向：人工智能应用于离子通道 / ZOU Zhiyuan, visiting Master's student, research interest: AI for ion channels
+黄燕萍 研究助理 研究方向：脑疾病与调控 / HUANG Yanping, research assistant, research interest: brain diseases and modulation
 
 
 ### **实验室过往成员 / Lab Alumni**  
