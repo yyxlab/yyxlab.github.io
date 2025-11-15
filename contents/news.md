@@ -1,3 +1,6 @@
+2025-09 欢迎黄燕萍同学加入！
+Welcome to HUANG Yanping, who joins us as a research assistant in the laboratory!
+
 2025-07 恭喜刘艺论文在《The Innovation Life》发表，附公众号解读(https://mp.weixin.qq.com/s/qqn-qiF0V8FT2KGFkExqnw)。Congratulations to LIU Yi on the publications of her paper in The Innovation Life! See the Wechat public account interpretation (https://mp.weixin.qq.com/s/qqn-qiF0V8FT2KGFkExqnw).
 
 
