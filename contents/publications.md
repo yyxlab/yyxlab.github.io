@@ -4,7 +4,7 @@
 
 Yi Liu, Xiaolei Wang, Weiwei Yin, Jiahui Chen, Yu Fan, Jiani Yang, Yu Wang, Lin Ge, Wei Rao, Laiyuan Wang, Cheng Li, Zengcai V. Guo, Nan Liu*, Xuyang Sun*, Yaxiong Yang*, Nanomaterial-genetics enables near-infrared-driven genetically-targeted neuromodulation. Science Advances 2026
 
-Luyao Wang#, Shengchao Wang#*, Ihsan Ullah#, Xiaolei Zhou, Ke Peng, Feng Wen, Yongke You, Yaxiong Yang, Rong Li, ShuangYan Jiang, Pei Zhang, Xinyi Liu, Yin Dong, Rengcheng Qian, Baolin Huang, Heng Li, Bing Song, Huaqiong Li*, Zhifeng You*. A Tissue-Homologous Keratin-PBA Hydrogel Integrating Rationally Designed Nanomicelles Enables Microenvironment-Adaptive Repair of Chronic Diabetic Wounds. Small 2026
+Luyao Wang#, Shengchao Wang*#, Ihsan Ullah#, Xiaolei Zhou, Ke Peng, Feng Wen, Yongke You, Yaxiong Yang, Rong Li, ShuangYan Jiang, Pei Zhang, Xinyi Liu, Yin Dong, Rengcheng Qian, Baolin Huang, Heng Li, Bing Song, Huaqiong Li*, Zhifeng You*. A Tissue-Homologous Keratin-PBA Hydrogel Integrating Rationally Designed Nanomicelles Enables Microenvironment-Adaptive Repair of Chronic Diabetic Wounds. Small 2026
 
 Yi Liu, Xuyang Sun*, Nan Liu*, Yaxiong Yang*, Emerging Techniques for Precision Neuromodulation: A Comparative Framework from Bench to Bedside. The Innovation Life 2025
 
@@ -72,7 +72,7 @@ Yaxiong Yang, Yuanyuan He, Xiaodong Liu, Design and Applications of the New Calc
 
 Yaxiong Yang, Yuanyuan He, Yuxia Liu, Ping Li, Shuhua Yue, Xiaodong Liu, Sensing Ca2+ without perturbing neurons: The design, validation and applications of GCaMP-X, the 48th Annual Meeting of the Society for Neuroscience, San Deigo, CA, 2018.
 
-Yaxiong Yang, Yuanyuan He, Xiaodong Liu, Carboxyl Terminus as a Key Regulator of Gating and Signaling of L-Type Calcium Channels. Biophysical Journal 2017, 11: 3451 (IF=3.854/Q1).
+Yaxiong Yang, Yuanyuan He, Xiaodong Liu, Carboxyl Terminus as a Key Regulator of Gating and Signaling of L-Type Calcium Channels. Biophysical Journal 2017, 11: 3451.
 
 Yaxiong Yang,  CaV1通道碳末端在通道门控与信号通路中的作用, 中国生理学会第十二届全国青年生理学工作者学术会议, 优秀口头报告奖, 2017.
 
@@ -80,6 +80,6 @@ Yaxiong Yang, Min Liu, Yuxia Liu, Nan Liu, Xiaodong Liu, Plastic tuning and bidi
 
 Yaxiong Yang, Bifurcation of CaV1.3 Gating and Signaling in Cortical Neurons, 春季清华-IDG/麦戈文脑科学研究院学术研讨会, 大会报告展示优秀奖 , 2016.
 
-Yaxiong Yang, Min Liu, Nan Liu, Xiaodong Liu, Convergent Modulations by Carboxyl-Termini across L-Type Calcium Channel Subtypes. Biophysical Journal (Conference) 2014, 11: 3167  (IF=3.854/Q1).
+Yaxiong Yang, Min Liu, Nan Liu, Xiaodong Liu, Convergent Modulations by Carboxyl-Termini across L-Type Calcium Channel Subtypes. Biophysical Journal (Conference) 2014, 11: 3167.
 
 Yaxiong Yang, Comparison Toward the Central Principle of Carboxyl-terminal Modulations across L-type Calcium Channel Subtypes, 第十届钙信号和细胞功能研讨会 (Conference) 优秀墙报奖, 2014.
