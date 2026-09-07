@@ -1,4 +1,4 @@
-<img width="3634" height="158" alt="image" src="https://github.com/user-attachments/assets/0c6646e1-2eda-49a1-96c4-4e22c3467fb8" />### 代表性论文（*通讯作者；#第一作者）/ Selected Publications (*Corresponding Author; #First Author)
+### 代表性论文（*通讯作者；#第一作者）/ Selected Publications (*Corresponding Author; #First Author)
 
 ### 2025-至今（中山大学课题组期间）/ Since 2025 (Lab at Sun Yat-sen University)
 
