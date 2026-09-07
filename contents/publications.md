@@ -44,6 +44,8 @@ Yaxiong Yang, 靶向通道和受体的新颖光学调控技术开发. 第十届�
 
 Yaxiong Yang, Nanomaterial-genetics enables receptor-guided, cell-type-specific precision neuromodulation. 2026 Chinese Biophysics Congress 生物物理大会，海南博鳌，2026
 
+Yi Liu, Xuyang Sun*, Yaxiong Yang*, Nanomaterial-genetics enables receptor-guided targeting of ligand-functionalized nanoparticles for cell-type-specific neuromodulation. Nature conferences: Translational Biomaterials 自然会议：转化生物材料，中国香港，2026
+
 Yichen Ke#, Ruijie Gong#, Yu Wang#, Xuyang Sun*, Yaxiong Yang*, AlphaFold3-Guided Structure-Function Investigation of P2X Receptors. 第九届离子通道与受体青年学者学术论坛，广东横琴，2025
 
 Ruijie Gong, Yichen Ke, Xuyang Sun*, Yaxiong Yang*, A Theoretical Study of Terahertz Wave Modulation of P2X Receptors. 第九届离子通道与受体青年学者学术论坛，广东横琴，2025（学生龚蕊婕获得Best Poster Award）
