@@ -1,11 +1,14 @@
-2025-09 恭喜刘艺等人论文在《Science Advances》发表！
+2026-09 恭喜刘艺等人论文在《Science Advances》发表！
 Congratulations to Liu Yi and others for having their paper published in Science Advances!
 
-2025-09 欢迎陈娟和刘祐豪同学加入！
+2026-09 欢迎陈娟和刘祐豪同学加入！
 Welcome to CHEN Juan and LIU Youhao!
 
-2025-07 恭喜刘艺同学毕业！
+2026-07 恭喜刘艺同学毕业！
 Congratulations to Liu Yi on graduation!
+
+2026-04 欢迎黄海纳同学加入！
+Welcome to Haina Huang!
 
 2025-09 欢迎黄燕萍同学加入！
 Welcome to HUANG Yanping, who joins us as a research assistant in the laboratory!
