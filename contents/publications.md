@@ -2,7 +2,7 @@
 
 ### 2025-至今（中山大学课题组期间）/ Since 2025 (Lab at Sun Yat-sen University)
 
-Yi Liu, Xiaolei Wang, Weiwei Yin, Jiahui Chen, Yu Fan, Jiani Yang, Yu Wang, Lin Ge, Wei Rao, Laiyuan Wang, Cheng Li, Zengcai V. Guo, Nan Liu*, Xuyang Sun*, Yaxiong Yang*, Nanomaterial-genetics enables near-infrared-driven genetically-targeted neuromodulation. Science Advances 2026
+Yi Liu, Xiaolei Wang, Weiwei Yin, Jiahui Chen, Yu Fan, Jiani Yang, Yu Wang, Lin Ge, Wei Rao, Laiyuan Wang, Cheng Li, Zengcai V. Guo, Nan Liu*, Xuyang Sun*, Yaxiong Yang*, Nanomaterial-genetics enables near-infrared-driven genetically-targeted neuromodulation. Science Advances 2026 (Accept, online on 2026/10/30)
 
 Luyao Wang#, Shengchao Wang*#, Ihsan Ullah#, Xiaolei Zhou, Ke Peng, Feng Wen, Yongke You, Yaxiong Yang, Rong Li, ShuangYan Jiang, Pei Zhang, Xinyi Liu, Yin Dong, Rengcheng Qian, Baolin Huang, Heng Li, Bing Song, Huaqiong Li*, Zhifeng You*. A Tissue-Homologous Keratin-PBA Hydrogel Integrating Rationally Designed Nanomicelles Enables Microenvironment-Adaptive Repair of Chronic Diabetic Wounds. Small 2026
 
