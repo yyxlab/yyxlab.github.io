@@ -1,29 +1,42 @@
-2027年博士研究生、硕士研究生招生中！欢迎推荐和自荐！
+New: 2027年博士研究生、硕士研究生招生中！欢迎推荐和自荐！
 
 PhD and master's program admissions for 2027 are now open! We welcome both recommendations and self-applications!
 
-课题组正在快速上升期，经费充裕，产出稳定，欢迎对课题组研究方向感兴趣的学生、科研助理和博士后申请人主动联系（yang.yaxiong@foxmail.com；yangyaxiong@sysu.edu.cn）！具体要求如下：
+招生（2027级入学硕士研究生、博士研究生）
 
-1、申请攻读硕士、博士的学生拥有生物学、化学、医学、或工程背景，对科研有热情，充满好奇心。组内面试侧重科研能力，包括过往课题熟悉程度、独立思考能力、实验技能、科研思路和文献阅读能力等，不唯论文。
+2027级入学普博研究生：已获得或即将获得生物学、医学、化学、物理等基础学科，或生物医学工程、生物工程、材料科学与工程等工程类学科硕士学位。对科学研究具有浓厚兴趣，耐心细致，具有良好的表达及沟通能力，高度责任心及团队精神，能主导或深度参与课题推进，能协助课题组日常管理工作，具备以下能力之一能更快加入课题组具体课题，亦将优先考虑。
 
-2、科研助理已获得或即将获得生物学、化学、医学、或工程相关硕士学位，待遇从优，并择优推荐进入本组读博，或全力推荐进入更好课题组读博。
+1、具有生化及相分离机制研究基础（蛋白表达纯化、功能鉴定与机制挖掘）
 
-3、博士后申请人已获得或即将获得生物学、化学、医学、或工程相关博士学位，以第一作者身份发表过高水平生物医学领域论文，可以先沟通再准备推荐信，中大博后待遇优厚，并有良好职业发展路径，具体薪酬面议。
+2、电生理或钙成像（HEK293细胞外源离子通道表达体系的全细胞或单通道膜片钳技术、原代神经元膜片钳电生理技术、神经元离体或在体钙成像技术）
 
-课题组将针对每个人的实际情况提供全面细致的指导和帮助，全力支持每一位成员的发展，我希望与实验室成员即是良师，也是益友，与大家一起成长共同进步！
+3、生物材料合成及表征（超声、磁、光响应纳米材料合成及功能表征、纳米材料-神经界面研究基础）
 
-Our lab is in a phase of rapid growth, with ample funding and stable research output. We warmly welcome students, research assistants, and postdoctoral candidates who are interested in our research areas to reach out proactively (yang.yaxiong@foxmail.com; yangyaxiong@sysu.edu.cn)! Specific requirements are as follows:
+2027级入学学术型硕士研究生：考研或调剂均可，已获得或即将获得生物学、医学、化学、物理等基础学科，或生物医学工程、生物工程、材料科学与工程等工程类学科本科学位。对课题组研究内容具有兴趣，过学院投档线或调剂线。能深度参与或主导课题推进，能协助课题组日常管理工作。
 
-Master’s and Ph.D. Applicants:
+课题组亦长期招收本科生进组做科研训练。
 
-Applicants should have a background in biology, chemistry, medicine, or engineering, with a strong passion for scientific research and a deep sense of curiosity. Lab interviews emphasize research capabilities, including familiarity with previous research projects, independent thinking, experimental skills, scientific reasoning, and literature comprehension. Publications are not the sole criterion.
+博士后招聘（1名）
 
-Research Assistants:
+要求：年龄不超过35周岁，已获得或即将获得生物学、医学、化学、物理等基础学科，或生物医学工程、生物工程、材料科学与工程等工程类学科博士学位。具有电生理、钙成像、蛋白纯化及相分离研究技术、小鼠活体实验技术等经验者优先考虑；以第一作者在权威期刊发表过学术论文者优先。
 
-Candidates should have obtained or be about to obtain a master’s degree in biology, chemistry, medicine, or a related engineering field. Competitive compensation will be provided. Outstanding research assistants will be given priority for Ph.D. admission within the group or receive full support in applying to other top-tier labs.
+福利：博士后进站后可额外申请深圳新引进博士人才生活补贴（具体政策见深圳市新引进博士人才生活补贴政策），出站留粤可申请出粤资助，光明区亦有大量工作、生活和落户补贴。
 
-Postdoctoral Researchers:
+住房保障：中山大学深圳校区为博士后提供良好的住房保障，博士后可申请65平方米左右两房及以下户型，住房紧邻学校，生活便捷（具体政策见中山大学总务部通知）。 
 
-Candidates should have obtained or be about to obtain a Ph.D. in biology, chemistry, medicine, or a related engineering discipline, and have published high-quality papers in the biomedical field as first author. Initial communication is welcome before preparing recommendation letters. Sun Yat-sen University offers competitive postdoctoral compensation packages and clear career development paths. Salary is negotiable.
+职业发展：在站期间，导师全力帮助和指导基金申请（PI曾申获博士后面上，博新计划，国自然青年，面上、省部级项目等多个项目，连续多年担任国自然青年、面上等多个国家项目评审，指导博士后及年轻教师申获博士后项目、国自然项目多项），出站后，根据在站期间成果和博士后个人意愿，课题组可推荐申请中山大学准聘-长聘助理教授、中山大学附属第七医院科研岗等职位。
 
-Our lab is committed to offering personalized and comprehensive guidance and support tailored to each individual. We strive to foster the professional growth of every team member. I aim to be not only a mentor but also a trusted colleague, growing and advancing together with everyone in the lab.
+科研助理招聘（1名）
+
+已获得或即将获得生物学、医学、化学、物理等基础学科，或生物医学工程、生物工程、材料科学与工程等工程类学科本科或硕士学位。对科学研究具有浓厚兴趣，耐心细致，具有良好的表达及沟通能力，高度责任心及团队精神，能主导或深度参与课题推进，能协助课题组日常管理工作，能长期稳定工作（1年以上）者优先。表现突出且有强烈读博意愿的科研助理，课题组可推荐在本组读博。
+
+申请材料
+
+1.	个人完整简历（CV）：包括联系电话、教育及科研工作经历、发表文章或参与科研工作情况、未来工作计划等。
+
+2.	1-2位推荐人及联系方式（可先沟通后提供），邮件主题请注明“姓名-申请博士后/科研助理/博士研究生/硕士研究生/本科生进组”。
+联系方式
+
+投递邮箱：yangyaxiong@mail.sysu.edu.cn 或 yang.yaxiong@foxmail.com
+本招聘广告长期有效，额满为止。应聘材料将予以严格保密。
+
