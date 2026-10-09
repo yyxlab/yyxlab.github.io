@@ -38,7 +38,7 @@ Dr. Yang’s research focuses on molecular neuroscience, biophysics, and mechano
 
 柯依辰 本科生 2024-2025 / KE Yichen Undergraduate student 2024-2025
 
-吕默凡 硕士研究生 2024-2025 / LV Mofan Master's student 2024-2025 Now: Graduate student at Beihang University
+吕默凡 硕士研究生 2024-2025 / LV Mofan Master's student 2024-2025
 
 刘祐豪 本科生 2025 / LIU Youhao  Undergraduate student 2025
 
